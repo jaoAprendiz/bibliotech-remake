@@ -1,0 +1,23 @@
+:root {
+  --navy: #00142E;
+  --blue: #0B2545;
+  --gold: #D4AF6A;
+  --gold-light: #E8C98B;
+  --warm: #F5F1E8;
+  --paper: #fdfbf7;
+  --surface: #fffefa;
+  --text: #14263a;
+  --muted: #546170;
+  --line: #dedbd2;
+  --success: #265843;
+  --success-bg: #e7f2e9;
+  --warning: #6d501e;
+  --warning-bg: #f8eed6;
+  --danger: #943b3b;
+  --danger-bg: #faeae7;
+  --heading: 'Outfit Variable', 'Segoe UI', sans-serif;
+  --body: 'Inter Variable', 'Segoe UI', sans-serif;
+  --radius: 12px;
+  --shadow: 0 9px 25px #00142e0c;
+  color-scheme: light;
+}

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="290" viewBox="0 0 200 290" color="#d1d5b3">
+<rect width="200" height="290" fill="#2a353d"/><rect x="7" y="7" width="186" height="276" fill="none" stroke="#d1d5b3" opacity=".5"/><path d="M14 14h172v262H14z" fill="none" stroke="#d1d5b3" opacity=".25"/><path d="M25 33h150M25 235h150" stroke="#d1d5b3" opacity=".5"/>
+<text x="100" y="26" text-anchor="middle" fill="#d1d5b3" font-family="Arial,sans-serif" font-size="7" letter-spacing="2">BIBLIOTECH · ACERVO</text>
+<text x="100" y="75" text-anchor="middle" fill="#d1d5b3" font-family="Georgia,serif" font-weight="bold" font-size="22">FRANKENSTEIN</text>
+<path d="M111 100 62 168h35l-8 58 48-75h-33z" fill="currentColor"/><circle cx="100" cy="165" r="68" fill="none" stroke="currentColor" stroke-dasharray="3 6"/><text x="100" y="253" text-anchor="middle" fill="#d1d5b3" font-family="Arial,sans-serif" font-weight="bold" font-size="8" letter-spacing="1">MARY SHELLEY</text>
+<text x="100" y="271" text-anchor="middle" fill="#d1d5b3" font-family="Arial,sans-serif" font-size="6" letter-spacing="1.5">CAPA DEMONSTRATIVA</text></svg>

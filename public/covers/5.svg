@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="290" viewBox="0 0 200 290" color="#e8c98b">
+<rect width="200" height="290" fill="#42374c"/><rect x="7" y="7" width="186" height="276" fill="none" stroke="#e8c98b" opacity=".5"/><path d="M14 14h172v262H14z" fill="none" stroke="#e8c98b" opacity=".25"/><path d="M25 33h150M25 235h150" stroke="#e8c98b" opacity=".5"/>
+<text x="100" y="26" text-anchor="middle" fill="#e8c98b" font-family="Arial,sans-serif" font-size="7" letter-spacing="2">BIBLIOTECH · ACERVO</text>
+<text x="100" y="75" text-anchor="middle" fill="#e8c98b" font-family="Georgia,serif" font-weight="bold" font-size="22">O HOBBIT</text>
+<circle cx="135" cy="136" r="24" fill="currentColor"/><path d="m15 210 56-85 36 49 24-29 54 65z" fill="#252b37" stroke="currentColor"/><path d="m51 155 20-30 19 25-17-7-9 12z" fill="currentColor"/><text x="100" y="253" text-anchor="middle" fill="#e8c98b" font-family="Arial,sans-serif" font-weight="bold" font-size="8" letter-spacing="1">J. R. R. TOLKIEN</text>
+<text x="100" y="271" text-anchor="middle" fill="#e8c98b" font-family="Arial,sans-serif" font-size="6" letter-spacing="1.5">CAPA DEMONSTRATIVA</text></svg>

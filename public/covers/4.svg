@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="290" viewBox="0 0 200 290" color="#442820">
+<rect width="200" height="290" fill="#e2a944"/><rect x="7" y="7" width="186" height="276" fill="none" stroke="#442820" opacity=".5"/><path d="M14 14h172v262H14z" fill="none" stroke="#442820" opacity=".25"/><path d="M25 33h150M25 235h150" stroke="#442820" opacity=".5"/>
+<text x="100" y="26" text-anchor="middle" fill="#442820" font-family="Arial,sans-serif" font-size="7" letter-spacing="2">BIBLIOTECH · ACERVO</text>
+<text x="100" y="61" text-anchor="middle" fill="#442820" font-family="Georgia,serif" font-weight="bold" font-size="22">A HORA</text><text x="100" y="85" text-anchor="middle" fill="#442820" font-family="Georgia,serif" font-weight="bold" font-size="22">DA ESTRELA</text>
+<path d="m100 109 9 33 29-18-14 31 35 8-35 8 14 31-29-17-9 33-9-33-29 17 14-31-35-8 35-8-14-31 29 18z" fill="currentColor"/><circle cx="100" cy="163" r="63" stroke="currentColor" fill="none" stroke-dasharray="2 5"/><text x="100" y="253" text-anchor="middle" fill="#442820" font-family="Arial,sans-serif" font-weight="bold" font-size="8" letter-spacing="1">CLARICE LISPECTOR</text>
+<text x="100" y="271" text-anchor="middle" fill="#442820" font-family="Arial,sans-serif" font-size="6" letter-spacing="1.5">CAPA DEMONSTRATIVA</text></svg>
